@@ -8,7 +8,7 @@ Cursando Bacharelado em Engenharia de Software da Uninter.</p><br>
 <div align="center">
  <img src="https://user-images.githubusercontent.com/102098077/176555567-47ce624a-97d3-4604-bd50-2e75305e51bd.gif">
 </div>
-<p align="center"> Apresentação feita, agora vamos começar!</p>
+<p align="center"> <b>Apresentação feita, agora vamos começar!</b></p>
 
 
  <h2 align="center"> 👉Contatos:</h2><br> 
