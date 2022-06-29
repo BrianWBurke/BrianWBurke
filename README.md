@@ -45,3 +45,9 @@ Cursando Bacharelado em Engenharia de Software da Uninter.</p><br>
   <a href="https://github.com/BrianWBurke">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=BrianWBurke&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>  
 </div>
+
+<p align="center">Futuro: Em construção 🧰.... </p>
+
+<div align="center">
+ <img src="https://user-images.githubusercontent.com/102098077/176557105-d962967e-0b85-4f16-9e9b-85d941e296f0.gif">
+</div>
