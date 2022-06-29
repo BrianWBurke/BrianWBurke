@@ -3,6 +3,7 @@
 <p align="center"> Programador de 24 anos com conhecimentos em HTML, CSS, JS e focando em desenvolvimento web.<br>
 Cursando Bacharelado em Engenharia de Software da Uninter.</p><br>
 
+
  <h2 align="center"> 👉Contatos:</h2><br> 
 <div align="center">
  <a href="https://www.linkedin.com/in/brianwbur/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"     alt="Linkedin Icon"></a>
