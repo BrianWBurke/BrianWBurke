@@ -49,5 +49,7 @@ Cursando Bacharelado em Engenharia de Software da Uninter.</p><br>
 <p align="center">Futuro: Em construção 🧰.... </p>
 
 <div align="center">
- <img src="https://user-images.githubusercontent.com/102098077/176557105-d962967e-0b85-4f16-9e9b-85d941e296f0.gif">
+ 
 </div>
+ 
+
