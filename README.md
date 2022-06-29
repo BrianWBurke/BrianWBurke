@@ -1,7 +1,14 @@
 <h1 align="center"> Olá, mundo!! Eu sou o Brian Willian Burke 🖖</h1><br>
 
 <p align="center"> Programador de 24 anos com conhecimentos em HTML, CSS, JS e focando em desenvolvimento web.<br>
+ Apaixonado por games e tecnologia, sempre procurando evoluir meus conhecimentos.<br>
 Cursando Bacharelado em Engenharia de Software da Uninter.</p><br>
+
+
+<div align="center">
+ <img src="https://user-images.githubusercontent.com/102098077/176555567-47ce624a-97d3-4604-bd50-2e75305e51bd.gif">
+</div>
+<p align="center"> Apresentação feita, agora vamos começar!</p>
 
 
  <h2 align="center"> 👉Contatos:</h2><br> 
