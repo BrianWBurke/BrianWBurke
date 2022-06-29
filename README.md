@@ -1,15 +1,16 @@
-# Olá, mundo!! Eu sou o Brian Willian Burke 🖖
+<h1 align="center"> Olá, mundo!! Eu sou o Brian Willian Burke 🖖</h1>
 
-Programador de 24 anos com conhecimentos em HTML, CSS, JS e focando em desenvolvimento web.<br>
-Cursando Bacharelado em Engenharia de Software da Uninter.
+<p align="center"> Programador de 24 anos com conhecimentos em HTML, CSS, JS e focando em desenvolvimento web.<br>
+Cursando Bacharelado em Engenharia de Software da Uninter.</p><br>
 
-## Contatos:
+ <h2 align="center"> Contatos:</h2><br> 
 <div align="center">
  <a href="https://www.linkedin.com/in/brianwbur/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"     alt="Linkedin Icon"></a>
   <a href="https://www.instagram.com/brianwbur/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Icon"></a>
+  <a href="mailto:brianetec@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><br>
 
-## Tecnologias que uso no meu dia a dia:
+<h2 align="center"> Tecnologias que uso no meu dia a dia:</h2><br>
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -20,7 +21,7 @@ Cursando Bacharelado em Engenharia de Software da Uninter.
  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrianWBurke&layout=compact&langs_count=5&theme=github_dark&hide_border=true"/>
  </div>
  
- ## Tecnologias que estou estudando ou que tenho interesse:
+<h2 align="center"> Tecnologias que estou estudando ou que tenho interesse:</h2><br>
  
  <div style="display: inline_block"  align="center"><br>
   <img align="center" alt="TYPESCRIPT" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
