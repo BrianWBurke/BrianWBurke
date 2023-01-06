@@ -1,6 +1,6 @@
 <h1 align="center"> Olá, mundo!! Eu sou o Brian Willian Burke 🖖</h1><br>
 
-<p align="center"> Programador de 24 anos com conhecimentos em HTML, CSS, JS, Python e focando em desenvolvimento web.<br>
+<p align="center"> Programador de 24 anos com conhecimentos em HTML, CSS, JS e Python, focando esforços atualmente em web.<br>
  Apaixonado por games e tecnologia, sempre procurando evoluir meus conhecimentos.<br>
 Cursando Bacharelado em Engenharia de Software da Uninter.</p><br>
 
