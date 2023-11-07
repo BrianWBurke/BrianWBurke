@@ -1,6 +1,6 @@
 <h1 align="center"> Olá, mundo!! Eu sou o Brian Willian Burke 🖖</h1><br>
 
-<p align="center"> Programador de 25 anos com conhecimentos em Python, focando esforços atualmente em web e Data Science.<br>
+<p align="center"> Programador de 25 anos com conhecimentos em Python, focando esforços atualmente em Back-End e Data Science.<br>
  Apaixonado por games e tecnologia, sempre procurando evoluir meus conhecimentos.<br>
 Cursando Bacharelado em Engenharia de Software da Uninter.</p><br>
 
