@@ -24,6 +24,8 @@ Cursando Bacharelado em Engenharia de Software da Uninter.</p><br>
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white">
   <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white">
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white">
+  <img align="center" alt="VS Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white">
+  <img align="center" alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white">
  </div><br>
  <div align="center">
  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrianWBurke&layout=compact&langs_count=5&theme=github_dark&hide_border=true"/>
