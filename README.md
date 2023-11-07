@@ -2,6 +2,8 @@
 
 <p align="center"> Programador de 25 anos com conhecimentos em Python, focando esforços atualmente em Back-End e Data Science.<br>
  Apaixonado por games e tecnologia, sempre procurando evoluir meus conhecimentos.<br>
+ Comunicativo, criativo e autodidata!!
+ <br>
 Cursando Bacharelado em Engenharia de Software da Uninter.</p><br>
 
 
