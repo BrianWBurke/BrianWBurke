@@ -40,6 +40,7 @@ Cursando Bacharelado em Engenharia de Software da Uninter.</p><br>
   <img align="center" alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A.svg?style=for-the-badge&logo=Selenium&logoColor=white">
   <img align="center" alt="Pandas" src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
   <img align="center" alt="DataDog" src="https://img.shields.io/badge/Datadog-632CA6.svg?style=for-the-badge&logo=Datadog&logoColor=white">
+  <img align="center" alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black">
  </div><br>
  
  <div align="center">
