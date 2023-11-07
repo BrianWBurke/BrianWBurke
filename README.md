@@ -36,6 +36,8 @@ Cursando Bacharelado em Engenharia de Software da Uninter.</p><br>
   <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white">
   <img align="center" alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=white">
   <img align="center" alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A.svg?style=for-the-badge&logo=Selenium&logoColor=white">
+  <img align="center" alt="Pandas" src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+  <img align="center" alt="DataDog" src="https://img.shields.io/badge/Datadog-632CA6.svg?style=for-the-badge&logo=Datadog&logoColor=white">
  </div><br>
  
  <div align="center">
